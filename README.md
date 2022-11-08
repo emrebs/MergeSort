@@ -16,3 +16,5 @@ _[16,21,11,8,12,22] -> Merge Sort_
 
 **2. Big-O gösterimini yazınız.**
 - Big-O Notation = O(nlogn)
+
+[patika.dev](https://app.patika.dev/paths)	
